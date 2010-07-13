@@ -1,0 +1,5 @@
+Browser UI for doing filter based tails of a live updating log file.
+
+For now, you'll need to set the location of your error log in webserver.py
+
+Access http://localhost:8081/ in a browser and it should be pretty self explanatory
